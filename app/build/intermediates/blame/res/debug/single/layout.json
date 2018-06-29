@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\projects\\androidStudio\\playRobot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bo_view.xml",
+        "source": "D:\\projects\\androidStudio\\playRobot\\app\\src\\main\\res\\layout\\bo_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\androidStudio\\playRobot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mian.xml",
+        "source": "D:\\projects\\androidStudio\\playRobot\\app\\src\\main\\res\\layout\\activity_mian.xml"
+    }
+]

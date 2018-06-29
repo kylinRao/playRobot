@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\projects\androidStudio\FolatWindowDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\projects\androidStudio\FolatWindowDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_35da844558f83e578ec349d6a9c94049a63a6d23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\androidStudio\FolatWindowDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b0cb98bf47985f755eb3fc7b81a0c9a2278571f2">
+        <dex dex="D:\projects\androidStudio\FolatWindowDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d5f64fa34ad3c0957190134d4fba968af75fe571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ANDROIDSDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\projects\androidStudio\FolatWindowDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_0912d3b81eb7a9ff34814dd257d555a1048ecc17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\androidStudio\FolatWindowDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\projects\androidStudio\FolatWindowDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_64073bf6622b0f667f394f93f4d643e0229ccad7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\androidStudio\playRobot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="91aa306c616e255bf8bcf43b78a98deac57a184d">
+        <dex dex="D:\projects\androidStudio\playRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_85f7d76a373deacd64a8b814bff3d211a8e6b8fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\androidStudio\FolatWindowDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cfc3da3cfed0bd60990bdf113df15657e9c73246">
+        <dex dex="D:\projects\androidStudio\FolatWindowDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7c190e741768f4a4c551fcd06e034d096cf26a71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\androidStudio\playRobot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f447536ce280f73d1c4c550977b7d854b4ee58db">
+        <dex dex="D:\projects\androidStudio\playRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2460403bab7bf5d003dd92908e5e68dbb40d8407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\androidStudio\playRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\projects\androidStudio\playRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_786ee08bdb4b3f945895b558aa346dcd21824aef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\androidStudio\playRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\projects\androidStudio\playRobot\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_268880c1b5dc0aa84736e5ac9491c5121329b446\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">playRobot</string>
+    <string name="phoneLists">PhoneLists</string>
+    <string name="password">123456</string>
+
+</resources>

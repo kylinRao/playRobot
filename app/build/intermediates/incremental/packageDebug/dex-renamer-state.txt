@@ -1,0 +1,7 @@
+#Fri Jun 29 06:56:38 CST 2018
+base.0=D\:\\projects\\androidStudio\\playRobot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2460403bab7bf5d003dd92908e5e68dbb40d8407
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\projects\\androidStudio\\playRobot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_85f7d76a373deacd64a8b814bff3d211a8e6b8fc\\classes.dex
+base.1=D\:\\projects\\androidStudio\\playRobot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_85f7d76a373deacd64a8b814bff3d211a8e6b8fc
+file.0=D\:\\projects\\androidStudio\\playRobot\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2460403bab7bf5d003dd92908e5e68dbb40d8407\\classes.dex
